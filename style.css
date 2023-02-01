@@ -1,0 +1,14 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.carousel-item img{
+	height: 92vh;
+}
+h1{
+	color: black;
+	text-transform: capitalize;
+}
+p{
+	text-transform: capitalize;
+}
